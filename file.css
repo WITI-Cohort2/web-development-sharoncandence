@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+
+}
+.sec{
+    background-color: aqua;
+    border: 5px solid black;
+    margin: 20px 10px;
+    padding: 20px;
+    width: 800px;
+
+}
+.sec1{
+    background-color: darksalmon;
+    border: 5px double black;
+    margin: 20px 10px;
+    padding: 20px;
+    width: 800px;
+}
+.sec2{
+    background-color: hotpink;
+    border: 5px dashed black;
+    margin: 20px 10px 20px 10px;
+    padding: 20px;
+    width: 800px;
+}
+.sec3{
+    background-color: greenyellow;
+    border: 5px dotted black;
+    margin: 20px 10px 20px 10px;
+    padding: 20px;
+    width: 800px;
+
+}
+.sec4{
+    background-color: blueviolet;
+    border: 5px inset black;
+    margin: 20px 10px 20px 10px;
+    padding: 20px;
+    width: 800px;
+
+}
